@@ -18,8 +18,4 @@
 	name: "mind control",
 	attack_points: 120,
 	mp_required: 4
-}, {
-	name: "confuse by going on long tangent",
-	attack_points: 200,
-	mp: 3
 }
