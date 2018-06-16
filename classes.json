@@ -1,0 +1,71 @@
+{
+    "characterClasses": {
+        "mage": {
+            "name": "mage",
+            "hp": 100,
+            "mp": 150,
+            "strength": 6,
+            "agility": 12,
+            "ability": "fireball"
+        },
+        "warriror": {
+            "name": "warrior",
+            "hp": 150,
+            "mp": 80,
+            "strength": 12,
+            "agility": 15,
+            "ability": "karate chop"
+
+        },
+        "monk": {
+            "name": "monk",
+            "hp": 130,
+            "mp": 90,
+            "strength": 15,
+            "agility": 5,
+            "ability": "mind control"
+        },
+        "archer": {
+            "name": "archer",
+            "hp": 150,
+            "mp": 40,
+            "strength": 8,
+            "agility": 20,
+            "ability": "slap"
+        }
+    },
+    "monsterClasses": {
+        "blob": {
+            "name": "blob",
+            "hp": 80,
+            "mp": 50,
+            "strength": 3,
+            "agility": 5,
+            "ability": "consume"
+        },
+        "goblin": {
+            "name": "goblin",
+            "hp": 100,
+            "mp": 10,
+            "strength": 8,
+            "agility": 2,
+            "ability": "monster mash"
+        },
+        "warewolf": {
+            "name": "warewolf",
+            "hp": 130,
+            "mp": 30,
+            "strength": 10,
+            "agility": 8,
+            "ability": "monster mash"
+        },
+        "spider": {
+            "name": "spider",
+            "hp": 75,
+            "mp": 20,
+            "strength": 6,
+            "agility": 8,
+            "ability": "monster mash"
+        }
+    }
+}
