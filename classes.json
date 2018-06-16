@@ -1,0 +1,36 @@
+{   "mage":
+    {
+       "name": "mage",
+       "hp": 100,
+       "mp": 150,
+       "strength": 6,
+       "agility": 12,
+       "ability": "fireball"
+    },
+    "warriror":
+    {
+       "name": "warrior",
+       "hp": 150,
+       "mp": 80,
+       "strength": 12,
+       "agility": 15,
+       "ability": "slash"
+    
+    },
+    "monk":{
+       "name": "monk",
+       "hp": 130,
+       "mp": 90,
+       "strength": 15,
+       "agility": 5,
+       "ability": "mind control"
+    },
+    "archer":{
+        "name": "archer",
+        "hp": 150,
+        "mp": 40,
+        "strength": 8,
+        "agility": 20,
+        "ability": "mind control"
+    }
+}
