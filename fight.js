@@ -1,4 +1,3 @@
-
 function attack(char1, char2) {
 	var attak = char1.strength * Math.random();
 	var defence = char2.defence * attack + char2.agility * attack;
