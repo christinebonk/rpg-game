@@ -22,8 +22,9 @@ function createCharacter(classes) {
 	}
 ]).then(function(response){
 	yourCharacter = new Character(response.name, response.class);
-		console.log();
+		console.log(yourCharacter);
 	});
 };
 
 createCharacter(classes);
+
