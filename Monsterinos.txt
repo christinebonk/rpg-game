@@ -1,49 +1,58 @@
-{
-    "name": "The Gelatinous Cube",
-    "strength": 30,
-    "defense": 90,
-    "currentHP": 120,
-    "currentMP": 30,
-    "Class": "blob",
-    "level": 5,
-    "xp_to_give": 80,
-    "ability": "consume",
-    "sound": "Slorp...fllwp..slshh...",
-    "chosen": false
-}{
-    "name": "House Spider",
-    "strength": 10,
-    "defense": 2,
-    "currentHP": 50,
-    "currentMP": 90,
-    "Class": "spider",
-    "level": 1,
-    "xp_to_give": 50,
-    "ability": "mindcontrol",
-    "sound": "Please don't kill me...I have a life to live",
-    "chosen": false
-}{
-    "name": "Werewolf Fledgling",
-    "strength": 90,
-    "defense": 30,
-    "currentHP": 200,
-    "currentMP": 20,
-    "Class": "werewolf",
-    "level": 7,
-    "xp_to_give": 150,
-    "ability": "Monster Mash",
-    "sound": "Grrrrr...Aroo",
-    "chosen": false
-}{
-    "name": "Hazma the Defiler",
-    "strength": 75,
-    "defense": 55,
-    "currentHP": 200,
-    "currentMP": 200,
-    "Class": "goblin",
-    "level": 10,
-    "xp_to_give": 250,
-    "ability": "slap",
-    "sound": "Hrooookkk!! I will feed on your flesh!",
-    "chosen": false
+{ "The Gelatinous Cube":
+    {
+        "name": "The Gelatinous Cube",
+        "strength": 30,
+        "defence": 0.9,
+        "currentHP": 120,
+        "currentMP": 30,
+        "Class": "blob",
+        "level": 5,
+        "xp_to_give": 80,
+        "ability": "consume",
+        "agility": 0.2,
+        "sound": "Slorp...fllwp..slshh...",
+        "chosen": false
+    },
+    "House Spider":
+    {
+        "name": "House Spider",
+        "strength": 10,
+        "defence": 2,
+        "currentHP": 50,
+        "currentMP": 90,
+        "Class": "spider",
+        "level": 1,
+        "xp_to_give": 50,
+        "ability": "mindcontrol",
+        "sound": "Please don't kill me...I have a life to live",
+        "chosen": false
+    },
+    "Werewolf Fledgling":
+    {
+        "name": "Werewolf Fledgling",
+        "strength": 90,
+        "defence": 30,
+        "currentHP": 200,
+        "currentMP": 20,
+        "Class": "werewolf",
+        "level": 7,
+        "xp_to_give": 150,
+        "ability": "Monster Mash",
+        "sound": "Grrrrr...Aroo",
+        "chosen": false
+    },
+    "Hazma the Defiler":
+    {
+        "name": "Hazma the Defiler",
+        "strength": 75,
+        "defence": 55,
+        "currentHP": 200,
+        "currentMP": 200,
+        "Class": "goblin",
+        "level": 10,
+        "xp_to_give": 250,
+        "ability": "slap",
+        "sound": "Hrooookkk!! I will feed on your flesh!",
+        "chosen": false
+    }
 }

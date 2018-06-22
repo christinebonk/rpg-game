@@ -2,10 +2,10 @@
     "mage": {
         "name": "mage",
         "hp": 100,
-        "mp": 3,
+        "mp": 6,
         "strength": 6,
         "agility": 0.5,
-        "defense": 0.2,
+        "defence": 0.2,
         "ability": "fireball"
     },
     "warriror": {
@@ -14,7 +14,7 @@
         "mp": 5,
         "strength": 12,
         "agility": 0.3,
-        "defense": 0.3,
+        "defence": 0.3,
         "ability": "karate chop"
 
     },
@@ -24,7 +24,7 @@
         "mp": 1,
         "strength": 15,
         "agility": 0.1,
-        "defense": 0.1,
+        "defence": 0.1,
         "ability": "mind control"
     },
     "archer": {
@@ -33,7 +33,7 @@
         "mp": 0,
         "strength": 8,
         "agility": 0.6,
-        "defense": 0.1,
+        "defence": 0.1,
         "ability": "slap"
     }
 }
