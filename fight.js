@@ -9,10 +9,11 @@ function ability(char1, char2) {
 	if(char1.ability.mp == char1.mp) {
 		char2.hp -= char1.ability.attack_points;
 	} else {
-		console.log("You do not have enough manna")
+		console.log("You do not have enough mana")
 	}
 }
 
 function battle (char1, char2, action) {
 	action(char1, char2);
 }
+
